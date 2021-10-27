@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+#text{
+
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    
+   }
+
+#button{
+
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: #f11616;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#box{
+
+    background-color: rgba(89, 233, 125, 0.8);
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+}
